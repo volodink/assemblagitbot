@@ -1,9 +1,8 @@
-import random
-import sys
-import time
-
-import datetime
 import telepot
+
+import random
+import time
+import datetime
 
 import configuration
 
